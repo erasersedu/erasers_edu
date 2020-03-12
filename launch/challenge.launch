@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launch>
+    <node name="rgbd_reader" pkg="erasers_edu" type="rgbd_reader.py" output="screen"/>
+    <node name="control_to_pose" pkg="erasers_edu" type="controlToPose.py" output="screen"/>
+
+</launch>
