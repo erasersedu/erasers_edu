@@ -52,8 +52,10 @@ def callback_point_cloud(msg):
 	i = 320 
 	j = 240 
 
+	p = [pc[j][i][0], pc[j][i][1], pc[j][i][2]]
+
 	print "central point" 
-	print pc[j][i]
+	print p
 
 	#Find the centroid of the closest object
 	#Insert your code here
