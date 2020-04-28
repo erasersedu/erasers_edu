@@ -63,4 +63,5 @@ Now you just have to look for the comments in the nodes controlToPostion.py and 
 ## Authors
 
 * **Victor Hugo Sanchez** - *Initial work* - [huguinsanchez](https://github.com/huguinsanchez)
+* **Luis Contreras** - *Updates and maintenance*
 
